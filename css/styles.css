@@ -1,0 +1,16 @@
+body {
+  background-color: #8B7AAE;
+}
+
+.container {
+  background: #FFF0AA;
+  width: 60%;
+  margin-top: 3em;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-size: 22px;
+  font-style: italic;
+}
